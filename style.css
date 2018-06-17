@@ -1,0 +1,48 @@
+
+#body{
+  padding-top: 200px;
+font-size: 20px;
+    color: white;
+
+    margin:30px;
+    border:20px;
+    font-family: 'Indie Flower', cursive;
+
+}
+body{
+  background-image: url("http://orig13.deviantart.net/ff35/f/2011/253/d/d/debian_metal_wallpaper_hd_by_malkowitch-d49egyf.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#top {
+font-size: 40px;
+height: 200px;
+    width: 50%;
+    box-shadow: 5px 5px 3px 1px skyblue;
+    background-image: url("https://i0.wp.com/www.wallpapersbyte.com/wp-content/uploads/2015/08/Blue-Pattern-Design-Flowers-Curve-Pink-Texture-WallpapersByte-com-1366x768.jpg");
+font-family: 'Amatic SC', cursive;
+text-align: center;
+vertical-align: top;
+  color:purple;
+position:fixed;
+top: 0;
+    left: 30;
+  text-transform: uppercase;
+    text-align: center !important;
+margin-left: 400px;
+    border-radius: 10px;
+ opacity: 0.5;
+margin-top: 40px;
+}
+a:hover{
+  color:white;
+}
+#god{
+  color:#fc4445 ;
+}
+#god:hover{
+  color:white;
+}
+em{
+  color:rgb(172,0,0);
+}
